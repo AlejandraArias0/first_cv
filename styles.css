@@ -6,16 +6,20 @@ header{
     text-align: center;
 }
 
-#yoyo{
+#image-profile{
     border-radius: 100%;
     width: 150px;
     border: black solid 5px;
 }
 
-.pepillo{
+.profile-description{
     display: flex;
     justify-content: space-between;
     margin: auto;
+}
+
+.skills{
+    text-align: justify;
 }
 
 aside{
